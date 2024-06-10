@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bibhubaibhav
-- 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning Android Application Development
-- 💞️ I’m looking to collaborate on Android Developer
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning and working on SAP ABAP Development at INFOSYS Ltd.
+- 💞️ I’m looking to collaborate on SAP ABAP Developer
 - 📫 How to reach me bibhuba@gmail.com
 
 <!---
